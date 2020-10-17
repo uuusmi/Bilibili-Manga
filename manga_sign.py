@@ -48,8 +48,8 @@ msg = msg + "累计签到" + str(r.json()['data']['day_count']) + "天🐶\n"
 
 time.sleep(3)
 
-print("哔哩哔哩银瓜子兑换硬币 start>>>")
-print(b.silver_to_coin())
+#print("哔哩哔哩银瓜子兑换硬币 start>>>")
+#print(b.silver_to_coin())
 
 # print(msg)
 
